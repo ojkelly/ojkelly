@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Owen Kelly (he/him). A Software Engineer based in Melbourne, Australia, working on @gold-build.
+I'm Owen Kelly (he/him). A Software Engineer based in Melbourne, Australia, working on [@gold-build](https://github.com/gold-build).
 
 
 - 🔭 I’m currently working on tooling that helps me sleep at night.
